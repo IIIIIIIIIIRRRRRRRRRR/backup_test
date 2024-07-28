@@ -6,3 +6,5 @@ gitの練習用ファイルです
 ・複数ファイルのコミット用
 ・git status確認用
 ・git diffの作成用
+
+・git commit　--amendの練習用
