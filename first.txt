@@ -4,3 +4,4 @@ gitの練習用ファイルです
 ・git add
 ・git commit
 ・複数ファイルのコミット用
+・git status確認用
