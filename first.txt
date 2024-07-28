@@ -5,3 +5,4 @@ gitの練習用ファイルです
 ・git commit
 ・複数ファイルのコミット用
 ・git status確認用
+・git diffの作成用
